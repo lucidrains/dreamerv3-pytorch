@@ -1,3 +1,5 @@
+<img src="./dreamerv3.png" width="400px"></img>
+
 ## DreamerV3 - Pytorch (wip)
 
 Implementation of [DreamerV3](https://danijar.com/project/dreamerv3/) in Pytorch
